@@ -3,6 +3,7 @@ body {
 }
 h1 {
   text-align: center;
+  top: 30%;
 }
 .caixa1 {
   position: absolute;
@@ -35,7 +36,7 @@ h1 {
 }
 .menuPricipal {
   position: absolute;
-  background: blue;
+  background: rgb(137, 137, 148);
   width: 100%;
   height: 45px;
   top: 0;
@@ -63,3 +64,31 @@ li a{
   background: pink;
   color: black;
 }
+.motivos {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+ height: 50px;
+ background: black ;
+ color: white;
+display: flex;
+justify-content: center;
+font-size: 15px;
+left: 0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.conteudo {
+  position: absolute;
+  top: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
